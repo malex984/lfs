@@ -1,0 +1,2 @@
+# lfs
+test git lfs
